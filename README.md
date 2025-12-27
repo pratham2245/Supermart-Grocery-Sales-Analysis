@@ -1,5 +1,8 @@
 # Supermart-Grocery-Sales-Analysis
 
+<img width="423" height="228" alt="image" src="https://github.com/user-attachments/assets/8ee1c75b-a31d-4edf-847c-0531e345f495" />
+
+
 This project analyzes grocery sales data to identify revenue and profit drivers across categories, regions, and time.  
 The focus is on **business-oriented insights** rather than just descriptive statistics.
 
